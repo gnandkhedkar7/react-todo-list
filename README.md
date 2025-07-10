@@ -1,3 +1,11 @@
+# Description
+
+A basic todo list component where users can: 
+    Add a new todo item
+    Mark a todo as completed
+    Delete a todo item
+    View the list of all todos
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
